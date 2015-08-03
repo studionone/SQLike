@@ -1,0 +1,21 @@
+{
+  "name": "sqlike",
+  "version": "1.0.21",
+  "description": "SQLike is a small (10 kB) query engine for JavaScript. Its functionality and syntax is similar to that of SQL and it can be used to query arrays of objects or arrays of arrays.",
+  "main": "sqlike.js",
+  "scripts": {
+    "test": "node tests/sqlike.js"
+  },
+  "keywords": [
+    "sqlike",
+    "linq",
+    "query",
+    "querying"
+  ],
+  "author": "Josh Girvin <josh@studionone.com.au>",
+  "contributors": [{
+    "name": "Thomas Frank",
+    "email": "thomas@clientsmile.se"
+  }],
+  "license": "MIT"
+}
